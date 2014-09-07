@@ -1,6 +1,6 @@
 ## directories
 
-[![Travis CI](https://secure.travis-ci.org/debops/ansible-directories.png)](http://travis-ci.org/debops/ansible-directories) [![test-suite](http://img.shields.io/badge/test--suite-ansible--directories-blue.svg)](https://github.com/debops/test-suite/tree/master/ansible-directories/) [![Ansible Galaxy](http://img.shields.io/badge/galaxy-debops.directories-660198.svg)](https://galaxy.ansible.com/list#/roles/1560)[![Platforms](http://img.shields.io/badge/platforms-debian%20|%20ubuntu-lightgrey.svg)](#)
+[![Travis CI](https://secure.travis-ci.org/debops/ansible-directories.png)](http://travis-ci.org/debops/ansible-directories) [![test-suite](http://img.shields.io/badge/test--suite-ansible--directories-blue.svg)](https://github.com/debops/test-suite/tree/master/ansible-directories/) [![Ansible Galaxy](http://img.shields.io/badge/galaxy-debops.directories-660198.svg)](https://galaxy.ansible.com/list#/roles/1560) [![Platforms](http://img.shields.io/badge/platforms-debian%20|%20ubuntu-lightgrey.svg)](#)
 
 This is a simple wrapper role around `file` Ansible module, which lets you
 manage (create, modify or remove) directories using inventory variables,
