@@ -35,7 +35,7 @@ ansigenome_info:
       github: 'drybjed'
 
   synopsis: |
-    This is a simple wrapper role around ``file`` Ansible module, which lets
+    This is a simple wrapper role around `file` Ansible module, which lets
     you manage (create, modify or remove) directories using inventory
     variables, including creation on multiple hosts at once.
 
